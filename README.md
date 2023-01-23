@@ -6,6 +6,6 @@ Right Arrow --> resume drawing
 
 Left Arrow --> stop drawing
 
-!eg1(./eg1.png?raw=true)
+![circles](https://github.com/NoahTheCorgi/ArtAdventures/eg1.png)
 
-!eg2(./eg2.png?raw=true)
+![moving ellipses](https://github.com/NoahTheCorgi/ArtAdventures/eg2.png)
